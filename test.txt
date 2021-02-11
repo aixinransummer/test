@@ -1,2 +1,3 @@
 the first line is for initial commit
 the second line is for simplifying sub functions 
+this new line is for the second last inital commit
